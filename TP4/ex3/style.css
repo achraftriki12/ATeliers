@@ -1,0 +1,26 @@
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-self: stretch;
+}
+.element {
+    width: 40%;
+    min-height: 100px;
+    overflow-wrap: break-word;
+}
+#text {
+    min-height: 100px;
+    width: 40%;
+    margin: 10px;
+    align-self: center;
+}
+div {color: rgb(143, 23, 23);
+    font-size: 200%;
+    margin: 10px;
+    align-self: center;
+    width: auto;
+}
+button {
+    min-width: 70px;
+}
